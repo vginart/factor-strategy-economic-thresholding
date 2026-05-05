@@ -1,0 +1,1 @@
+Developed and tested factor-based strategies on S&P 500 equities, examining how economic regime filters affect performance. Findings show that macro thresholding can significantly enhance value-oriented strategies, but has mixed effectiveness across other factors.
